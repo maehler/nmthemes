@@ -1,0 +1,17 @@
+Package: nmthemes
+Type: Package
+Title: Some personalised themes for ggplot2
+Version: 0.1.0
+Author: Niklas Mähler
+Maintainer: Niklas Mähler <niklas.mahler@gmail.com>
+Description: Some additional themes for ggplot2 that have been customised
+  to fit with my personal use. If anyone else also finds them useful, that's
+  just a bonus.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Depends:
+  R (>= 3.0.0)
+Imports:
+  ggplot2 (>= 2.2.0)
